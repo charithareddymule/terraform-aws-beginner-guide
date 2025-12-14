@@ -32,11 +32,17 @@ Cloud Computing Student
 
 ## Screenshots
 
-![Screenshot](screenshots/Screenshot 2025-12-12 104444.png)
-![Screenshot](screenshots/Screenshot 2025-12-12 105343.png)
-![Screenshot](screenshots/Screenshot 2025-12-12 105520.png)
-![Screenshot](screenshots/Screenshot 2025-12-12 105611.png)
-![Screenshot](screenshots/Screenshot 2025-12-12 105651.png)
-![Screenshot](screenshots/Screenshot 2025-12-12 105708.png)
-![Screenshot](screenshots/Screenshot 2025-12-12 105737.png)
+![Screenshot](screenshots/Screenshot%202025-12-12%20104444.png)
+
+![Screenshot](screenshots/Screenshot%202025-12-12%20105343.png)
+
+![Screenshot](screenshots/Screenshot%202025-12-12%20105520.png)
+
+![Screenshot](screenshots/Screenshot%202025-12-12%20105611.png)
+
+![Screenshot](screenshots/Screenshot%202025-12-12%20105651.png)
+
+![Screenshot](screenshots/Screenshot%202025-12-12%20105708.png)
+
+![Screenshot](screenshots/Screenshot%202025-12-12%20105737.png)
 
