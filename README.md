@@ -29,3 +29,14 @@ The infrastructure was created in an AWS Sandbox environment using AWS Cloud9.
 ## Author
 Charitha Reddy Mule  
 Cloud Computing Student
+
+## Screenshots
+
+![Screenshot](screenshots/Screenshot 2025-12-12 104444.png)
+![Screenshot](screenshots/Screenshot 2025-12-12 105343.png)
+![Screenshot](screenshots/Screenshot 2025-12-12 105520.png)
+![Screenshot](screenshots/Screenshot 2025-12-12 105611.png)
+![Screenshot](screenshots/Screenshot 2025-12-12 105651.png)
+![Screenshot](screenshots/Screenshot 2025-12-12 105708.png)
+![Screenshot](screenshots/Screenshot 2025-12-12 105737.png)
+
